@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 
-- 🔭 I’m currently working on Solidity & DeFi Swap
-- 🌱 I’m currently learning Solidity & DeFi Swap
-- 👯 I’m looking to collaborate on Solidity & DeFi Swap
-- 🤔 I’m looking for help with Solidity & DeFi Swap
+- 🔭 I’m currently working on Solidity & #DeFi #Web3 #GameFi
+- 🌱 I’m currently learning Solidity & #DeFi #Web3 #GameFi
+- 👯 I’m looking to collaborate on Solidity & #DeFi #Web3 #GameFi
+- 🤔 I’m looking for help with Solidity & #DeFi #Web3 #GameFi
 - 💬 Ask me about Nothing 😵
 - 📫 How to reach me: issue 👆
 - 😄 Pronouns: Coder ⌨️ 
