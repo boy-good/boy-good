@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: issue 👆
 - 😄 Pronouns: Coder ⌨️ 
 - ⚡ Fun fact: ✈️ SHENZHEN
-- 🔐 Donate ETH BNB OKT HT USDT: 0x201795f32C0aa6835b820dD65C46c7493b25aD90 💰
+- 🔐 Donate ETH BNB OKT HT USDT: maxplus.eth
 - 🦉 blog：https://blog.csdn.net/z_xuewen
 
 
