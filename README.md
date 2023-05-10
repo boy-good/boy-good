@@ -1,5 +1,6 @@
-### Hi there 👋
-💻
+### Hi there
+👋
+^_^ 👋
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="236" />
 <!--
 **boy-good/boy-good** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=boy-good&layout=compact)](https://github.com/boy-good)
 
 
 - 🔭 I’m looking for help with and working on Solidity 🫶 DeFi,Web3,GameFi,NFT
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 👯 Fun fact: ✈️ Singapore
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=boy-good&show_icons=true&theme=gotham" alt="boy-good" />
+
