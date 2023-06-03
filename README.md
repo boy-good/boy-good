@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Coder 👍 Builder
 - 👯 Fun fact: ✈️ Singapore
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=boy-good&show_icons=true&theme=gotham" alt="boy-good" />
-
